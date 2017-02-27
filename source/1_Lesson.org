@@ -6,12 +6,12 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: The 555 Fan
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott Added to by C Delport
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/stsb11/8-SC-Fan">Fork me on GitHub</a>
+      <a href="https://github.com/stcd11/8-SC-Fan">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -107,40 +107,15 @@
 :END:
 - Here is the board you will be soldering together.
 [[file:img/PCBstart.jpg]]
-- Please note, there are 2 components that have been replaced from the original board. The diode has been replaced by a 10mH inductor and the BC639 transistor has been replaced with a TIP122 transistor.
+- Please note, there is one component that needs to be replaced from the original board. The BC639 transistor has been replaced with a TIP122 transistor.
 [[./img/PCBchanges1.JPG]]
-- Solder in your components as shown below. *Do not solder on the leads for the motor, power supply or switch*
-[[file:img/PCBfinal.jpg]]
-- here is a picture with the replaced components.
-[[./img/PCBchanges2.JPG]]
-- Once you have soldered the board together, you can begin to assemble the case. Use masking tape to hold it together to start, and do not glue it until you are sure you have everything in the correct place.
-- Put together part of the case as shown below.
-[[file:img/Step1glue.jpg]]
-[[./img/Step2glue.jpg]]
-[[./img/Step3glue.jpg]]
-[[./img/Step4glue.jpg]]
-- Next you'll need a motor.
-[[file:img/motor1.jpg]]
-- Remove the axel and the worm gear (with pliers), and then reverse the motor in it's housing.
-- You will first need to trim down the plastic guides at the back of the housing, using a side cutter.
-[[./img/Cuttinghousing.JPG]]
-[[file:img/motor2.jpg]]
-- Now you'll want to solder on the leads for the motor and the switch *(Do not solder the battery wire yet)*. Use about 30cm of multi-core wire for the motor and power leads, and about 10cm of wire for the switch. You are advised, however, to try and judge how much wire you will need by placing your PCB in the case and feeding the wire through the holes. Remember, you'll want to twist the wires together as well, which will shorten them.
-- Make sure you feed the leads through their respective strain holes.
-- Solder the wires from the PCB onto the back of the motor.
-[[file:img/PCBwithwiring.jpg]]
-[[./img/Motorwire1.jpg]]
-- Now you can position your motor on the back of the case.
-- You will need 2 machine screws and nuts.
-- *Note the 100nF capacitor soldered across the terminals of the motor.*
-[[./img/Screws.jpg]]
-- This can then be fitted to the back of the body, onto it's mounting plate.
-[[./img/Motoronmount2.jpg]]
-- Solder the battery boxes together as shown below.
-[[file:img/case2.jpg]]
-- You can now feed the battery wire through the correct holes and solder them in place.
-[[./img/Battwiring.jpg]]
-[[./img/Batterywiring2.jpg]]
+- Solder in your components as shown below. 
+[[./img/PCBwiring3.JPG]]
+- Next you'll need to attach your finished PCB to the mounting plate. 
+- This is done by screwing the nut onto the potentiometer and the switch.
+[[file:img/PCBwiring2.jpg]]
+
+
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge

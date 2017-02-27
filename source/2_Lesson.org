@@ -6,12 +6,12 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil tex:dvipng
 
 #+TITLE: The 555 Fan
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott added to by C. Delport
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/stsb11/8-SC-Fan">Fork me on GitHub</a>
+      <a href="https://github.com/stcd11/8-SC-Fan">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">

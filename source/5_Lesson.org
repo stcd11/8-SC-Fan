@@ -5,13 +5,13 @@
 #+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil tex:dvipng
 
-#+TITLE: The 555 Fan
-#+AUTHOR: Marc Scott
+#+TITLE:        The 555 Fan
+#+AUTHOR: Marc Scott added to by C. Delport
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/stsb11/8-SC-Fan">Fork me on GitHub</a>
+      <a href="https://github.com/stcd11/8-SC-Fan">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -98,22 +98,24 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
 :END:
-- You have already assembled and mounted the motor.
+-  Put together part of the case as shown below.
+[[file:img/Step1.jpg]]
+[[./img/Step2.jpg]]
+[[./img/Step3.jpg]]
+[[./img/Step4.jpg]]
+- Next you'll need to attach your finished PCB to the mounting plate as you have done previously, this can be seen below. 
+[[file:img/PCBwiring2.jpg]]
+- The motor now needs to be mounted using a cable tie and the panel needs to be glued in place.
+[[./img/PCB_to_body.jpg]]
 - Attaching the fan blade come next.
 - *Be careful not to push the fan blade to far back on the motor.*
 [[./img/Fitfan.jpg]]
-- It is now time to connect the switches to the face plate. This can be done by simple pushing the potentiometer and switch through the holes and attaching a washer and nut to the other side.
-[[./img/Switchmount1.jpg]]
-[[./img/Switchmount2.jpg]]
-- This panel can then be pushed into place. Do not glue this in place, incase you need to remove it later.
-- You will need to pull any excess wire through the case.
-- *Make sure there are no components or parts loose, that will catch on the fan blade.*
-[[./img/Frontcover.jpg]]
-- The battery boxes can be glued in place using a hot glue gun.
-[[./img/Battglue.jpg]]
-- Your product is now finished, you can test it and take pictures for uploading.
-[[./img/Final1.jpg]]
-[[./img/Final2.jpg]]
+- This will then need to be glued in place onto your project.
+- This is what your completed project should look like.
+[[./img/Complete.jpg]]
+[[./img/Complete_side.jpg]]
+
+
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
