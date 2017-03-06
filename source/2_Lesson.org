@@ -115,13 +115,17 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Copy and complete the following table.
+- Complete the table below by changing the values in your circuit diagram.
+- Take a screenshot of each of your circuit results to upload to www.bournetolearn.com
 | Top Resistor Value | Bottom Resistor Value | Top Resistor PD | Bottom Resistor PD |
 | 2k                 | 1k                    | 3V              | 1.5V               |
 | 0.5k               | 4k                    |                 |                    |
 | 800                | 100                   |                 |                    |
-| 20k                | 160k                  |                 |                    | 
+| 20k                | 160k                  |                 |                    |
+| 40k                | 320k                  |                 |                    |
 - Can you see a pattern between resistor values and potential difference?
+- Click on this link to complete the quiz which will badge your work. 
+- You will also need to upload you screenshots of the circuits.
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
