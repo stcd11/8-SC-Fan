@@ -124,7 +124,7 @@
 | 20k                | 160k                  |                 |                    |
 | 40k                | 320k                  |                 |                    |
 - Can you see a pattern between resistor values and potential difference?
-- Click on this [[https://www.bournetocode.com][link]] to complete the quiz which will badge your work. 
+- Click on this [[https://www.bournetolearn.com/quizzes/y8-fan/Lesson_1][link]] to complete the quiz which will badge your work. 
 - You will also need to upload you screenshots of the circuits.
 ** Learn It
 :PROPERTIES:
