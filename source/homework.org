@@ -114,3 +114,11 @@ Stuck?
 Look here http://www.resistorguide.com/potentiometer/
 
 
+** Design It: Line Bending
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+You used a line bender to bend and shape your fan blade as well as the door buzzer project you made in year 7. 
+- Design a step-by-step set of instructions on how to use the line bender. You need to include how to use ensure that you use it safely.
+
