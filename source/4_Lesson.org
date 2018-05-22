@@ -140,3 +140,9 @@
 - You've used the line bender before, but ask your teacher for a refresher if you've forgotten what to do.
 - Remember - you get one shot at this, so be careful not to snap your blades.
 - Once you've bent your blades into place, take a photograph of your finished fan blade.
+** Badge It - Bonus
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Use SolidWorks to design your own 3D fan blade and then 3D print it.
+- Take a photo of your finished 3D printed fan and upload it to [[https://bournetolearn.com/LoginForm.php][www.bournetolearn.com]]
