@@ -132,7 +132,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Take a photograph of your fan blade, before you line-bend it.
+- Take a screenshot of your completed CAD design of your fan blade, using either Techsoft 2D or Solidworks.
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
