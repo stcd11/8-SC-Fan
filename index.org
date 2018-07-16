@@ -27,12 +27,10 @@
 :HTML_CONTAINER_CLASS: link-heading
 :END:
 
-
 * [[file:pages/5_Lesson.html][Week 4 - Assembling the housing]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-
 
 * [[file:pages/6_Lesson.html][Week 5 - Pulse Width Modulation (PWM)]]
 :PROPERTIES:
@@ -40,6 +38,11 @@
 :END:
 
 
+
+* [[file:pages/evaluation.html][Week 6 - Evaluation]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
 
 
 * [[file:pages/homework.html][Homework Tasks]]
