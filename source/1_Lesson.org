@@ -90,7 +90,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* The build
+* The PCB build
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -106,15 +106,29 @@
 :HTML_CONTAINER_CLASS: build
 :END:
 - Here is the board you will be soldering together.
-[[file:img/PCBstart.jpg]]
-- Please note, there is one component that needs to be replaced from the original board. The BC639 transistor has been replaced with a TIP122 transistor.
-[[./img/PCBchanges1.JPG]]
-- Solder in your components as shown below. 
-[[./img/PCBwiring3.JPG]]
-- Next you'll need to attach your finished PCB to the mounting plate. 
-- This is done by screwing the nut onto the potentiometer and the switch.
-[[file:img/PCBwiring2.jpg]]
-
+[[file:img/1_PCB_start.JPG]]
+- First, you need to add the rectifier Diodes. Make sure you put them the correct way around, you can also add the 3 resistors.
+[[./img/2_Diodes.JPG]] 
+- Next add the 2 ceramic capacitors. Be careful, there are 2 values 10nF (103) and 100nF (104).
+- You can also add the TIP122 transistor. Make sure this is the correct way around.
+[[./img/3_Caps.JPG]]
+- You need to now cut 2 sets of red and black wires.
+- 130mm (13cm) for the motor.
+[[./img/4_Motor_wires.JPG]]
+- 60mm (6cm) for the switch.
+[[./img/5_Switch_wires.JPG]]
+- These can now be soldered to the motor and the switch. Please note how the wires are soldered in a particular direction on the motor.
+[[./img/7_Motor_wires_added.JPG]]
+[[./img/6_Switch wires_added.JPG]]
+- The wires for the motor can now be fed through the housing and then soldered to the PCB.
+- *Make sure they go through the strain relief hole.*
+[[./img/8_Motor_wire_housing.JPG]]
+[[./img/9_Motor_solder.JPG]]
+- You can now solder the switch to the PCB.
+- *Again, make sure you use the strain relief hole.*
+[[./img/10_Switch_solder.JPG]]
+- Finally, add the Potentiometer to the PCB and it is now ready to go into the housing.
+[[./img/11_Pot_added.JPG]]
 
 ** Badge It
 :PROPERTIES:

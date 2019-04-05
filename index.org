@@ -13,7 +13,7 @@
     </div>
 </div>
 #+END_HTML
-* [[file:pages/1_Lesson.html][Week 1 - The Build]]
+* [[file:pages/1_Lesson.html][Week 1 - The PCB Build]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
@@ -38,12 +38,10 @@
 :END:
 
 
-
 * [[file:pages/evaluation.html][Week 6 - Evaluation]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-
 
 * [[file:pages/homework.html][Homework Tasks]]
 :PROPERTIES:
