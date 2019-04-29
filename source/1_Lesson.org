@@ -122,8 +122,8 @@
 [[./img/6_Switch wires_added.JPG]]
 - The wires for the motor can now be fed through the housing and then soldered to the PCB.
 - *Make sure they go through the strain relief hole.*
-[[./img/8_Motor_wire_housing.JPG]]
-[[./img/9_Motor_solder.JPG]]
+[[./img/8_Motor_wire_housing_V2.JPG]]
+[[./img/9_Motor_solder_V2.JPG]]
 - You can now solder the switch to the PCB.
 - *Again, make sure you use the strain relief hole.*
 [[./img/10_Switch_solder.JPG]]
