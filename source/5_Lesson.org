@@ -115,7 +115,6 @@
 [[./img/Complete.jpg]]
 [[./img/Complete_side.jpg]]
 
-
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
